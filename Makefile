@@ -5,4 +5,4 @@ all:gamego
 gamego:object.o
 
 clean:
-	rm -f ex19
+	rm -rf gamego gamego.dSYM object.o
